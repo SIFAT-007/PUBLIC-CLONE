@@ -8,13 +8,11 @@
 
 `pkg install python`
 
-`pkg  install python2`
+`pip install requests`
 
-`pip2 install requests`
+`pip install requirements`
 
-`pip2 install requirements`
-
-`pip2 install mechanize`
+`pip install mechanize`
 
 `pip install rich`
 
